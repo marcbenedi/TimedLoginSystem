@@ -14,3 +14,6 @@ My idea about the securest method has to have the next:
 While I was thinking about those 3 points I thought that it could be a good idea start with the 1st and the 3rd.
 For that reason I decided to add a mechanism (to the typical login system) that also measures the speed of typing the password.
 We write our password a lot of times a day so it's something we are really use to. 
+
+## Collaborators
+- Henry Qiu
